@@ -18,5 +18,5 @@ with django (backend) and vue.js (frontend).
 
 	# run server
 	python manage.py runserver	(backend)
-	npm run serve				(frontend)
+	npm run serve			(frontend)
 ```
