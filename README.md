@@ -10,9 +10,6 @@ with django (backend) and vue.js (frontend).
 	# install packagas (backend)
 	pip install -r requirements.txt
 
-	# migrate database (backend)
-	python manage.py migrate
-
 	# install packages (frontend)
 	npm install
 
